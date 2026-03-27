@@ -18,7 +18,7 @@ class Program
             using (var client = new HttpClient())
             {
                 // 1. open() - Abrir uma solicitação HTTP personalizada
-                var request = new HttpRequestMessage(HttpMethod.Get, "https://jsonplaceholder.typicode.com/todos/");
+                var request = new HttpRequestMessage(HttpMethod.Get, "https://fakestoreapi.com/products");
 
                 // 4. setRequestHeader() - Definir o valor de um cabeçalho de solicitação HTTP personalizado
                 request.Headers.Add("User-Agent", "MyCustomApp/1.0");
