@@ -50,7 +50,7 @@ class Program
             try
             {
                 // 1. Criar o WebRequest (equivalente ao open())
-                WebRequest request = WebRequest.Create("https://jsonplaceholder.typicode.com/todos/");
+                WebRequest request = WebRequest.Create("https://fakestoreapi.com/products");
 
                 // 2. Definir método HTTP (GET, POST, etc.)
                 request.Method = "GET";
