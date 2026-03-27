@@ -1,0 +1,42 @@
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.exe
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.deps.json
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.runtimeconfig.json
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfoInputs.cache
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfo.cs
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\refint\XMLHttpRequest.dll
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.genruntimeconfig.cache
+C:\Users\Vinícius\OneDrive\UVV\2024-2\EAD\M1\Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\ref\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.exe
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.deps.json
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.runtimeconfig.json
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfoInputs.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfo.cs
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\refint\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.genruntimeconfig.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD - Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\ref\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.exe
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.deps.json
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.runtimeconfig.json
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\bin\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfoInputs.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.AssemblyInfo.cs
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\refint\XMLHttpRequest.dll
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.pdb
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\XMLHttpRequest.genruntimeconfig.cache
+C:\Users\fferreira\OneDrive - Sociedade Educacional do Espirito Santo\Plano de Aula\EAD-Desenvolvimento Web - Back End\Aula 05\XMLHttpRequest\XMLHttpRequest\obj\Debug\net8.0\ref\XMLHttpRequest.dll
